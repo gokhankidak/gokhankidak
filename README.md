@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **C# and Unity**
 
+- 🤓 I m Learning  **Swift**
+
 - ⚡ Fun fact **I know that mass does not affect the speed of falling objects**
 
 - 🥁 I m also professional drummer 
